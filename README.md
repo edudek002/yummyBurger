@@ -25,7 +25,7 @@ You can find the service on
 * Each burger in the waiting area also has an Eat! button. When the user clicks on it, the burger moves to the right side of the page.
 * The user also has an option to create burgers eaten in the past and adding them to the devoured list.
 * The app stores every burger in a database, whether eaten or not.
-* If the user can delete the burgers on the devoured lis by clicking the delete button.
+* The user can delete burgers on the devoured list by clicking the delete button.
 
  
 
