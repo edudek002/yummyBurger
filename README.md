@@ -1,4 +1,4 @@
-# YummuBurger
+# YummyBurger
 
 
 **Goal**
@@ -11,7 +11,7 @@ This one-page App allows the users to input the names of burgers they would like
 
 
 You can find the service on
-[GitHub](https://)
+[GitHub]( https://obscure-beyond-13683.herokuapp.com/)
 
 
 **User Flow**
